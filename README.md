@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I have been a Technical Support Analyst and United States Air Force Veteran With CompTIA Security Plus certification and a Public Trust Security Clearance leveraging 10+ years of proven experience in technical support and incident response. Proficient at training and developing personnel in dynamic, fast-paced environments. Possess a comprehensive understanding of systems configurations. Adept at providing effective technical solutions and leading highly functional teams resulting in increased productivity. Career supported by Associate’s degrees, IT certifications, and vast working experience. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
