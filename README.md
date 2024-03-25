@@ -1,9 +1,9 @@
 # Hello, I'm Tony
 <a href="https://www.linkedin.com/in/tonyagee/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Prior Technical Support Analyst and United States Air Force Veteran With CompTIA Security Plus certification and a Public Trust Security Clearance leveraging 10+ years of proven experience in technical support and incident response. Proficient at training and developing personnel in dynamic, fast-paced environments. Possess a comprehensive understanding of systems configurations. Adept at providing effective technical solutions and leading highly functional teams resulting in increased productivity. Career supported by Associate’s degrees, IT certifications, and vast working experience. 
+Welcome to my page. I am a prior Technical Support Analyst and United States Air Force Veteran With CompTIA Security Plus certification and a Public Trust Security Clearance leveraging 10+ years of proven experience in technical support and incident response. Proficient at training and developing personnel in dynamic, fast-paced environments. Possess a comprehensive understanding of systems configurations. Adept at providing effective technical solutions and leading highly functional teams resulting in increased productivity. Career supported by Associate’s degrees, IT certifications, and vast working experience. 
 
-My journey with computer systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or similar role in Blue Team Security.
+My journey with technology and computer systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or similar role in Blue Team Security.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
